@@ -21,4 +21,4 @@ FROM estimates
 WHERE Еstimate ='D' OR Еstimate = 'E';
 
 SELECT MAX(Salary) AS "Max salary"
-FROM employees
+FROM employees;
