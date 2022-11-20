@@ -17,10 +17,6 @@ FROM employees
 WHERE DriverLicense IS TRUE;
 
 SELECT id
-FROM employees
-WHERE DriverLicense IS TRUE;
-
-SELECT id
 FROM estimates
 WHERE Еstimate ='D' OR Еstimate = 'E';
 
