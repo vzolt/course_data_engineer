@@ -26,7 +26,7 @@ for i in range(0, len(res)):
     dates.append(res[i].published_parsed)
     sources.append(res[i].title_detail.base)
     
-df_add = pd.DataFrame({'category': categories, 'data': dates, 'source': sources}).reset_index(drop=True)
+df_add = pd.DataFrame({'category': categories, 'date': dates, 'source': sources}).reset_index(drop=True)
     
 df_add['day'] = df_add.data.apply(strftime)
 
@@ -36,7 +36,7 @@ df = pd.read_csv('../data/raw_data.csv', index_col=[0]).reset_index(drop=True)
 
 df_union = pd.concat([df, df_add], axis=0).reset_index(drop=True)
 
-df_union.drop_duplicates(subset=['data'], inplace= True, ignore_index = True, keep = 'last')
+df_union.drop_duplicates(subset=['date'], inplace= True, ignore_index = True, keep = 'last')
 
 df_union.to_csv('../data/raw_data.csv', encoding='utf-8')
 

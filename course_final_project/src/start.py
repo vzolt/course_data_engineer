@@ -32,10 +32,10 @@ for i in range(0, len(res)):
     dates.append(res[i].published_parsed)
     sources.append(res[i].title_detail.base)
     
-df = pd.DataFrame({'category': categories, 'data': dates, 'source': sources}).reset_index(drop=True)
+df = pd.DataFrame({'category': categories, 'date': dates, 'source': sources}).reset_index(drop=True)
 
-df['day'] = df.data.apply(strftime)
+df['day'] = df.date.apply(strftime)
 
-df['day_of_week'] = df.data.apply(tm_wday)
+df['day_of_week'] = df.date.apply(tm_wday)
 
 df.to_csv('../data/raw_data.csv', encoding='utf-8')
