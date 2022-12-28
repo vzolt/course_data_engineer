@@ -2,9 +2,8 @@
 import pandas as pd
 import numpy as np
 
+# загрузка файла
 df = pd.read_csv('../data/transform_data.csv', sep=',', index_col=[0]).reset_index(drop=True)
-
-display(df)
 
 # Суррогатный ключ категории
 task1 = df.key_category
@@ -36,7 +35,7 @@ task8 = day_key_category.sort_values(by=['category', 'count'])
 # Количество публикаций новостей данной категории по дням недели
 task9 = df.groupby(['day_of_week', 'key_category']).agg({'name_category': 'count'}).reset_index()
 
-
+# выгрузка в файл Excel
 with pd.ExcelWriter('../data/data.xlsx') as writer:  
     task1.to_excel(writer, sheet_name='key_category')
     task2.to_excel(writer, sheet_name='name_category')

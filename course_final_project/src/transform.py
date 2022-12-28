@@ -2,13 +2,13 @@
 import pandas as pd
 import numpy as np
 
+# загрузка файла
 df = pd.read_csv('../data/raw_data.csv', sep=',', index_col=[0]).reset_index(drop=True)
 
-display(df)
-
+# функция для систематизации категория
 def is_key(value):
     """
-    Возвращает значение категории по лемме.
+    Возвращает ключ категории
     """
     if value == 'Россия' or value == 'Среда обитания' or value == '69-я параллель' or value == 'Моя страна':
         key_category = 'russia'
@@ -35,6 +35,7 @@ def is_key(value):
     
 df['key_category'] = df['category'].apply(is_key)
 
+# присвоим имена категориям
 key_name = {'russia' : 'Россия', 'world': 'Мир', 'business': 'Экономика и бизнес',
             'technology' : 'Технологии',  'society' : 'Общество', 'entertainment': 'Культура',
             'sport' : 'Спорт', 'science' : 'Наука и техника', 'health' : 'Здоровье', 'unknown': 'Неизвестно'}
@@ -43,9 +44,8 @@ df_key_names = pd.DataFrame.from_dict(key_name, orient='index').reset_index()
 df_key_names.columns = ['key_category', 'name_category']
 df = df.merge(df_key_names, on = 'key_category')
 
+# формируем готовый датаврейм
 df_transform = df[['key_category', 'name_category', 'source', 'day', 'day_of_week']]
 
-df_transform.info()
-
-display(df_transform)
+# выгрузка в файл
 df.to_csv('../data/transform_data.csv', encoding='utf-8')

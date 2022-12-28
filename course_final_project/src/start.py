@@ -1,26 +1,26 @@
 # -*- coding: utf-8 -*-
+
+# установка и загрузка бибиотек
 !pip install feedparser
 import feedparser
 import pandas as pd
 import time
 
+# функции для извлечения латы и дня недели
 def strftime(date):
     return time.strftime('%d.%m.%Y', date)
 
 def tm_wday(date):
     return date.tm_wday
 
+# получаем данные из новостынх лент
 newsfeed_lenta = feedparser.parse("https://lenta.ru/rss/")
 newsfeed_tass = feedparser.parse("https://tass.ru/rss/v2.xml")
 newsfeed_vedomosti = feedparser.parse("https://www.vedomosti.ru/rss/news")
 
 res = [*newsfeed_lenta.entries, *newsfeed_tass.entries, *newsfeed_vedomosti.entries]
-print(len(newsfeed_lenta.entries))
-print(len(newsfeed_tass.entries))
-print(len(newsfeed_vedomosti.entries))
 
-print(len(res))
-
+# формируем датафрейм
 categories, dates, sources = [], [], []
 
 for i in range(0, len(res)): 
@@ -38,4 +38,5 @@ df['day'] = df.date.apply(strftime)
 
 df['day_of_week'] = df.date.apply(tm_wday)
 
+# выгружаем в файл
 df.to_csv('../data/raw_data.csv', encoding='utf-8')
