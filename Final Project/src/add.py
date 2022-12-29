@@ -31,9 +31,11 @@ for i in range(0, len(res)):
     
 df_add = pd.DataFrame({'category': categories, 'date': dates, 'source': sources}).reset_index(drop=True)
     
-df_add['day'] = df_add.data.apply(strftime)
+df_add['day'] = df_add.date.apply(strftime)
 
-df_add['day_of_week'] = df_add.data.apply(tm_wday)
+df_add['day_of_week'] = df_add.date.apply(tm_wday)
+
+df_add.date = df_add.date.astype('string')
 
 # выгружаем данные из raw_data.csv
 df = pd.read_csv('../data/raw_data.csv', index_col=[0]).reset_index(drop=True)
@@ -41,11 +43,9 @@ df = pd.read_csv('../data/raw_data.csv', index_col=[0]).reset_index(drop=True)
 # объединяем данные и удаляем дубликаты
 df_union = pd.concat([df, df_add], axis=0).reset_index(drop=True)
 
-df_union.drop_duplicates(subset=['date'], inplace= True, ignore_index = True, keep = 'last')
+df_union.drop_duplicates(subset=['date', 'source'], inplace= True, ignore_index = True, keep = 'last')
 
 # загружаем в файл
 df_union.to_csv('../data/raw_data.csv', encoding='utf-8')
-
-display(df_union)
 
 
