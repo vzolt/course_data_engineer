@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
-import numpy as np
 
 # загрузка файла
 df = pd.read_csv('../data/raw_data.csv', sep=',', index_col=[0]).reset_index(drop=True)
