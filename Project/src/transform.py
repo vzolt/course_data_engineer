@@ -49,3 +49,14 @@ df_transform = df[['key_category', 'name_category', 'source', 'day', 'day_of_wee
 
 # выгрузка в файл
 df.to_csv('../data/transform_data.csv', encoding='utf-8')
+
+# импорт в Postgres
+exec(open("postgres_intro.py").read())
+
+df.to_sql('transform_data', con=conn, if_exists='replace',
+		index=False)
+
+conn = psycopg2.connect(connection_string						)
+conn.autocommit = True
+cursor = conn.cursor()
+conn.close()

@@ -1,601 +1,484 @@
 ,category,date,source,day,day_of_week
-0,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=21, tm_sec=14, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-1,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=21, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-2,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=30, tm_sec=8, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-3,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=57, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-4,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=55, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-5,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=54, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-6,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=52, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-7,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=51, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-8,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=49, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-9,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=48, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-10,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=27, tm_sec=51, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-11,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=17, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-12,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=6, tm_sec=13, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-13,Недвижимость,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=33, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-14,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=33, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-15,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=33, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-16,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=32, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-17,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=28, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-18,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=27, tm_sec=48, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-19,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=27, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-20,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=24, tm_sec=13, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-21,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=21, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-22,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=21, tm_sec=30, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-23,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=15, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-24,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=9, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-25,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=7, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-26,69-я параллель,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=6, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-27,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=4, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-28,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=2, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-29,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=54, tm_sec=5, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-30,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=53, tm_sec=49, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-31,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=53, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-32,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=51, tm_sec=55, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-33,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=51, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-34,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=48, tm_sec=21, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-35,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=46, tm_sec=48, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-36,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=44, tm_sec=30, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-37,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=43, tm_sec=6, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-38,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=42, tm_sec=48, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-39,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=42, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-40,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=40, tm_sec=51, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-41,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=39, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-42,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=37, tm_sec=53, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-43,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=35, tm_sec=25, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-44,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=19, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-45,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=10, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-46,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=8, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-47,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=7, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-48,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=6, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-49,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=5, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-50,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=4, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-51,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=3, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-52,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=57, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-53,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=56, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-54,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=54, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-55,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=51, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-56,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=49, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-57,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=47, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-58,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=46, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-59,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=43, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-60,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=41, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-61,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=40, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-62,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=39, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-63,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=38, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-64,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=37, tm_sec=26, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-65,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=36, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-66,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=32, tm_sec=20, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-67,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=30, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-68,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=27, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-69,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=27, tm_sec=28, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-70,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=27, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-71,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=25, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-72,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=24, tm_sec=48, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-73,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=24, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-74,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=23, tm_sec=49, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-75,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=22, tm_sec=40, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-76,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=19, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-77,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=17, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-78,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=16, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-79,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=53, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-80,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=29, tm_sec=55, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-81,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=28, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-82,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=23, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-83,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=21, tm_sec=49, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-84,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=20, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-85,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=16, tm_sec=25, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-86,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=12, tm_sec=52, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-87,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=9, tm_sec=6, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-88,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=9, tm_sec=5, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-89,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=8, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-90,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=6, tm_sec=37, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-91,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=6, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-92,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=4, tm_sec=26, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-93,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=3, tm_sec=18, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-94,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=0, tm_sec=26, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-95,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=0, tm_sec=22, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-96,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=57, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-97,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=54, tm_sec=31, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-98,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=52, tm_sec=52, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-99,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=46, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-100,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=45, tm_sec=25, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-101,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=44, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-102,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=44, tm_sec=8, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-103,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=41, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-104,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=39, tm_sec=48, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-105,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=37, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-106,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=36, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-107,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=35, tm_sec=19, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-108,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=34, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-109,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=25, tm_sec=5, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-110,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=22, tm_sec=54, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-111,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=20, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-112,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=19, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-113,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=17, tm_sec=22, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-114,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=15, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-115,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=13, tm_sec=11, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-116,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=9, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-117,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=8, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-118,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=7, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-119,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=5, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-120,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=2, tm_sec=33, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-121,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=59, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-122,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=59, tm_sec=12, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-123,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=58, tm_sec=11, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-124,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=57, tm_sec=48, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-125,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=57, tm_sec=25, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-126,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=55, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-127,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=55, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-128,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=47, tm_sec=15, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-129,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=39, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-130,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=37, tm_sec=28, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-131,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=31, tm_sec=12, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-132,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=26, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-133,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=23, tm_sec=12, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-134,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=19, tm_sec=26, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-135,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=3, tm_sec=30, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-136,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=0, tm_sec=8, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-137,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=47, tm_sec=4, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-138,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=46, tm_sec=30, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-139,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=39, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-140,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=26, tm_sec=40, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-141,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=24, tm_sec=27, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-142,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=3, tm_sec=40, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-143,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=57, tm_sec=21, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-144,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=42, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-145,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=39, tm_sec=58, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-146,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=26, tm_sec=42, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-147,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=25, tm_sec=47, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-148,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=25, tm_sec=35, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-149,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=20, tm_sec=52, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-150,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=1, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-151,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=37, tm_sec=24, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-152,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=33, tm_sec=15, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-153,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=17, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-154,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=6, tm_sec=22, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
-155,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=51, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-156,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=20, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-157,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=15, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-158,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=12, tm_sec=54, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-159,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=12, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-160,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=50, tm_sec=26, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-161,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=35, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-162,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=34, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-163,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=19, tm_sec=5, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-164,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=15, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-165,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=49, tm_sec=43, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-166,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=48, tm_sec=28, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-167,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=46, tm_sec=12, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-168,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=40, tm_sec=46, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-169,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=34, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-170,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=34, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-171,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=27, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-172,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=7, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-173,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=7, tm_sec=3, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-174,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=7, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-175,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=4, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-176,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=4, tm_sec=20, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-177,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-178,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=45, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-179,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=30, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-180,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=25, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-181,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=10, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-182,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=7, tm_sec=39, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-183,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=57, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-184,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=48, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-185,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=35, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-186,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=33, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-187,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=3, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-188,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-189,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=59, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-190,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=58, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-191,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=50, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-192,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=26, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-193,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=21, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-194,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=19, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-195,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=8, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-196,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=1, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-197,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=59, tm_sec=14, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-198,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=59, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-199,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=58, tm_sec=47, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-200,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=55, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-201,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=54, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-202,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=48, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-203,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=47, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-204,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=45, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-205,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=42, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-206,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=36, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-207,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=33, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-208,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=31, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-209,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=30, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-210,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=28, tm_sec=22, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-211,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=27, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-212,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=22, tm_sec=14, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-213,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=22, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-214,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=21, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-215,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=20, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-216,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=18, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-217,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=7, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-218,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=6, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-219,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=4, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-220,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=59, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-221,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=50, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-222,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=50, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-223,Моя страна,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=49, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-224,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=45, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-225,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=43, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-226,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=33, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-227,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=29, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-228,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=26, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-229,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=24, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-230,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=22, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-231,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=19, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-232,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=17, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-233,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=14, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-234,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=13, tm_sec=14, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-235,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=11, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-236,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=7, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-237,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=6, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-238,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=4, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-239,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=2, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-240,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=57, tm_sec=27, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-241,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=57, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-242,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=52, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-243,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=50, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-244,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=48, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-245,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=47, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-246,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=46, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-247,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=43, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-248,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=42, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-249,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=41, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-250,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=38, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-251,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=36, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-252,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=35, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-253,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=31, tm_sec=27, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-254,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=29, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-255,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=27, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-256,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=25, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-257,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=24, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-258,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=17, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-259,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=17, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-260,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=16, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-261,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=14, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-262,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=13, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-263,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=12, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-264,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=8, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-265,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=5, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-266,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=2, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-267,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=1, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-268,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-269,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=58, tm_sec=26, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-270,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=51, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-271,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=50, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-272,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=45, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-273,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=42, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-274,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=41, tm_sec=35, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-275,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=38, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-276,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=37, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-277,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=31, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-278,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=27, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-279,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=25, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-280,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=16, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-281,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=15, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-282,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=13, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-283,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=6, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-284,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-285,69-я параллель,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=59, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-286,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=56, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-287,69-я параллель,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=54, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-288,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=53, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-289,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=52, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-290,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=52, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-291,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=49, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-292,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=43, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-293,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=42, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-294,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=41, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-295,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=38, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-296,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=37, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-297,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=36, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-298,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=32, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-299,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=30, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-300,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=28, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-301,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=21, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-302,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=20, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://lenta.ru/rss/,29.12.2022,3
-303,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=50, tm_sec=51, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-304,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=50, tm_sec=44, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-305,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=44, tm_sec=40, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-306,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=38, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-307,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=37, tm_sec=15, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-308,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=37, tm_sec=1, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-309,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=24, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-310,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=10, tm_sec=20, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-311,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=3, tm_min=4, tm_sec=43, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-312,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=58, tm_sec=1, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-313,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=53, tm_sec=19, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-314,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=49, tm_sec=52, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-315,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=38, tm_sec=8, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-316,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=27, tm_sec=32, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-317,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=24, tm_sec=47, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-318,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=19, tm_sec=59, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-319,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=17, tm_sec=28, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-320,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=12, tm_sec=52, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-321,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=8, tm_sec=55, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-322,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=2, tm_min=1, tm_sec=6, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-323,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=48, tm_sec=46, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-324,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=1, tm_min=12, tm_sec=22, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-325,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=27, tm_sec=9, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-326,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=20, tm_sec=16, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-327,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=19, tm_sec=14, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-328,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=16, tm_sec=19, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-329,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=15, tm_sec=17, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-330,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=7, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-331,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=4, tm_sec=57, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-332,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=0, tm_min=2, tm_sec=4, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
-333,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=53, tm_sec=30, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-334,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=45, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-335,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=44, tm_sec=53, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-336,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=39, tm_sec=47, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-337,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=39, tm_sec=22, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-338,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=33, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-339,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=25, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-340,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=23, tm_min=4, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-341,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=55, tm_sec=46, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-342,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=51, tm_sec=52, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-343,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=37, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-344,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=27, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-345,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=25, tm_sec=40, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-346,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=18, tm_sec=11, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-347,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=14, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-348,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=8, tm_sec=5, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-349,Космос,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=4, tm_sec=52, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-350,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=22, tm_min=2, tm_sec=58, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-351,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=54, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-352,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=48, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-353,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=38, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-354,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=30, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-355,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=28, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-356,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=26, tm_sec=18, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-357,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=26, tm_sec=8, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-358,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=25, tm_sec=18, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-359,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=22, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-360,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=20, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-361,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=17, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-362,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=15, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-363,Северо-Запад,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=14, tm_sec=40, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-364,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=14, tm_sec=14, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-365,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=12, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-366,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=11, tm_sec=20, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-367,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=8, tm_sec=44, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-368,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=8, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-369,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=7, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-370,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=6, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-371,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=0, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-372,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=21, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-373,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=59, tm_sec=19, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-374,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=48, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-375,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=48, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-376,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=45, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-377,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=43, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-378,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=39, tm_sec=51, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-379,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=35, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-380,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=31, tm_sec=46, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-381,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=29, tm_sec=26, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-382,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=26, tm_sec=31, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-383,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=21, tm_sec=41, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-384,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=21, tm_sec=6, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-385,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=16, tm_sec=13, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-386,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=15, tm_sec=51, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-387,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=12, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-388,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=6, tm_sec=19, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-389,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=3, tm_sec=14, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-390,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=2, tm_sec=40, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-391,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=20, tm_min=2, tm_sec=11, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-392,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=57, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-393,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=56, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-394,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=52, tm_sec=52, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-395,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=52, tm_sec=43, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-396,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=44, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-397,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=42, tm_sec=49, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-398,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=35, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-399,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=32, tm_sec=20, tm_wday=3, tm_yday=363, tm_isdst=0)",https://tass.ru/rss/v2.xml,29.12.2022,3
-400,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=41, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-401,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=19, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-402,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=57, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-403,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=32, tm_sec=44, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-404,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=12, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-405,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=52, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-406,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=44, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-407,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=22, tm_sec=18, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-408,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=58, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-409,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=34, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-410,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=18, tm_sec=13, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-411,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=13, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-412,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=6, tm_sec=35, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-413,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=49, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-414,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=40, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-415,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=37, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-416,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=27, tm_sec=3, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-417,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=18, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-418,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=4, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-419,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=54, tm_sec=31, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-420,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=47, tm_sec=28, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-421,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=39, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-422,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=34, tm_sec=10, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-423,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=27, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-424,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=4, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-425,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=55, tm_sec=37, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-426,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=54, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-427,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=45, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-428,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=37, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-429,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=23, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-430,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=12, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-431,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=56, tm_sec=35, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-432,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=55, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-433,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=48, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-434,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=47, tm_sec=41, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-435,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=42, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-436,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=21, tm_sec=55, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-437,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=21, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-438,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=18, tm_sec=33, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-439,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=59, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-440,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=51, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-441,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=49, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-442,Медиа,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=45, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-443,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=40, tm_sec=30, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-444,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=37, tm_sec=8, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-445,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=12, tm_sec=46, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-446,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=9, tm_sec=39, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-447,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=4, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-448,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=25, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-449,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=18, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-450,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=13, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-451,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=11, tm_sec=3, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-452,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=53, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-453,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=49, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-454,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=40, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-455,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=39, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-456,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=27, tm_sec=49, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-457,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=23, tm_sec=47, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-458,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=19, tm_sec=37, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-459,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=51, tm_sec=25, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-460,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=52, tm_sec=10, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-461,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=29, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-462,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=25, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-463,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=15, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-464,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=50, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-465,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=45, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-466,Недвижимость,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=44, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-467,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=16, tm_sec=19, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-468,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=13, tm_sec=58, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-469,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=4, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-470,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=55, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-471,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=49, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-472,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=23, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-473,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=7, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-474,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=5, tm_min=40, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-475,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=5, tm_min=22, tm_sec=53, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-476,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=4, tm_min=55, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-477,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=4, tm_min=32, tm_sec=41, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
-478,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=21, tm_min=0, tm_sec=57, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-479,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=19, tm_min=48, tm_sec=40, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-480,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=19, tm_min=26, tm_sec=43, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-481,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=19, tm_min=2, tm_sec=2, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-482,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=50, tm_sec=26, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-483,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=42, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-484,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=20, tm_sec=14, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-485,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=13, tm_sec=0, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-486,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=56, tm_sec=24, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-487,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=44, tm_sec=54, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-488,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=28, tm_sec=7, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-489,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=11, tm_sec=8, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-490,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=48, tm_sec=40, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-491,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=31, tm_sec=2, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-492,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=18, tm_sec=13, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-493,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=7, tm_sec=22, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-494,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=2, tm_sec=27, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-495,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=49, tm_sec=1, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-496,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=44, tm_sec=5, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-497,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=31, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-498,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=27, tm_sec=21, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-499,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=10, tm_sec=10, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-500,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=51, tm_sec=44, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-501,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=34, tm_sec=49, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-502,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=20, tm_sec=39, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-503,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=13, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-504,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=57, tm_sec=9, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-505,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=48, tm_sec=25, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-506,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=47, tm_sec=40, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-507,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=34, tm_sec=0, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-508,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=25, tm_sec=14, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-509,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=21, tm_sec=39, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-510,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=55, tm_sec=58, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-511,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=50, tm_sec=32, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-512,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=47, tm_sec=11, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-513,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=46, tm_sec=15, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-514,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=44, tm_sec=1, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-515,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=37, tm_sec=44, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-516,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=25, tm_sec=5, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-517,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=24, tm_sec=4, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-518,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=22, tm_sec=16, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-519,Авто,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=18, tm_sec=0, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-520,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=3, tm_sec=48, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-521,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=55, tm_sec=28, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-522,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=51, tm_sec=44, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-523,Бизнес / Транспорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=47, tm_sec=16, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-524,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=46, tm_sec=39, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-525,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=41, tm_sec=55, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-526,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=36, tm_sec=33, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-527,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=26, tm_sec=2, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-528,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=19, tm_sec=6, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-529,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=11, tm_min=12, tm_sec=18, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-530,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=10, tm_min=52, tm_sec=21, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-531,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=10, tm_min=42, tm_sec=36, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-532,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=10, tm_min=30, tm_sec=36, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-533,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=10, tm_min=21, tm_sec=50, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-534,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=10, tm_min=18, tm_sec=6, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-535,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=10, tm_min=0, tm_sec=1, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-536,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=9, tm_min=59, tm_sec=31, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-537,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=9, tm_min=50, tm_sec=56, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-538,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=9, tm_min=42, tm_sec=44, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-539,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=9, tm_min=33, tm_sec=58, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-540,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=9, tm_min=22, tm_sec=25, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-541,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=9, tm_min=17, tm_sec=59, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-542,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=8, tm_min=47, tm_sec=4, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-543,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=8, tm_min=40, tm_sec=10, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-544,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=8, tm_min=34, tm_sec=55, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-545,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=8, tm_min=12, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-546,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=7, tm_min=50, tm_sec=25, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-547,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=7, tm_min=40, tm_sec=42, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-548,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=7, tm_min=18, tm_sec=25, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-549,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=6, tm_min=52, tm_sec=6, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-550,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=6, tm_min=33, tm_sec=33, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-551,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=5, tm_min=53, tm_sec=21, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-552,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=5, tm_min=33, tm_sec=35, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-553,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=5, tm_min=1, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-554,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=4, tm_min=43, tm_sec=19, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
-555,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=19, tm_min=43, tm_sec=55, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-556,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=19, tm_min=25, tm_sec=11, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-557,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=18, tm_min=50, tm_sec=42, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-558,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=18, tm_min=21, tm_sec=10, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-559,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=17, tm_min=59, tm_sec=0, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-560,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=17, tm_min=36, tm_sec=19, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-561,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=17, tm_min=18, tm_sec=33, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-562,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=16, tm_min=32, tm_sec=2, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-563,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=16, tm_min=11, tm_sec=14, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-564,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=15, tm_min=46, tm_sec=23, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-565,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=15, tm_min=33, tm_sec=28, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-566,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=15, tm_min=19, tm_sec=8, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-567,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=15, tm_min=6, tm_sec=10, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-568,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=15, tm_min=2, tm_sec=46, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-569,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=55, tm_sec=26, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-570,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=50, tm_sec=37, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-571,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=35, tm_sec=14, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-572,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=28, tm_sec=36, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-573,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=17, tm_sec=24, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-574,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=13, tm_sec=12, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-575,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=7, tm_sec=5, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-576,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=14, tm_min=0, tm_sec=54, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-577,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=13, tm_min=48, tm_sec=10, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-578,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=13, tm_min=24, tm_sec=28, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-579,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=13, tm_min=14, tm_sec=18, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-580,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=13, tm_min=9, tm_sec=23, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-581,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=13, tm_min=2, tm_sec=9, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-582,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=12, tm_min=33, tm_sec=59, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-583,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=12, tm_min=29, tm_sec=42, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-584,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=12, tm_min=24, tm_sec=37, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-585,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=12, tm_min=9, tm_sec=2, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-586,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=12, tm_min=1, tm_sec=40, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-587,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=50, tm_sec=37, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-588,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=41, tm_sec=36, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-589,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=31, tm_sec=22, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-590,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=25, tm_sec=14, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-591,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=22, tm_sec=9, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-592,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=17, tm_sec=35, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-593,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=14, tm_sec=21, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-594,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=11, tm_min=4, tm_sec=18, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-595,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=10, tm_min=37, tm_sec=1, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-596,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=10, tm_min=30, tm_sec=51, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-597,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=10, tm_min=27, tm_sec=49, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-598,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=10, tm_min=11, tm_sec=33, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
-599,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=27, tm_hour=10, tm_min=7, tm_sec=14, tm_wday=1, tm_yday=361, tm_isdst=0)",https://www.vedomosti.ru/rss/news,27.12.2022,1
+0,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=9, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+1,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=6, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+2,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=51, tm_sec=9, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+3,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=35, tm_sec=32, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+4,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=30, tm_sec=33, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+5,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=17, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+6,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=16, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+7,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=55, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+8,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=51, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+9,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=36, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+10,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=30, tm_sec=33, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+11,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=18, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+12,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=16, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+13,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=15, tm_sec=9, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+14,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=11, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+15,Моя страна,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=1, tm_sec=46, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+16,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=56, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+17,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=55, tm_sec=41, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+18,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=40, tm_sec=8, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+19,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=34, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+20,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=30, tm_sec=12, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+21,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=24, tm_sec=31, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+22,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=23, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+23,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=21, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+24,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=14, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+25,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=12, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+26,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=0, tm_sec=9, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+27,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=55, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+28,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=47, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+29,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=41, tm_sec=56, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+30,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=41, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+31,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=36, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+32,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=31, tm_sec=21, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+33,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=26, tm_sec=45, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+34,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=25, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+35,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=16, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+36,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=2, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+37,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=0, tm_sec=14, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+38,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=48, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+39,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=41, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+40,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=39, tm_sec=17, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+41,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=27, tm_sec=13, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+42,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=8, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+43,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=0, tm_sec=10, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+44,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=48, tm_sec=15, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+45,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=46, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+46,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=31, tm_sec=20, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+47,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=25, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+48,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=10, tm_sec=45, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+49,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=10, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+50,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=7, tm_sec=54, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+51,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=59, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+52,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=55, tm_sec=42, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+53,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=54, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+54,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=53, tm_sec=51, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+55,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=50, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+56,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=40, tm_sec=25, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+57,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=12, tm_sec=0, tm_wday=5, tm_yday=365, tm_isdst=0)",https://lenta.ru/rss/,31.12.2022,5
+58,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=44, tm_sec=11, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+59,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=41, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+60,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=18, tm_sec=31, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+61,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=17, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+62,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=11, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+63,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=4, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+64,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=31, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+65,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=17, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+66,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=11, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+67,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=5, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+68,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=52, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+69,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=46, tm_sec=10, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+70,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=43, tm_sec=1, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+71,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=38, tm_sec=9, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+72,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=30, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+73,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=28, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+74,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=24, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+75,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=52, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+76,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=49, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+77,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=47, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+78,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=36, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+79,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=32, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+80,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=12, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+81,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=9, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+82,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=6, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+83,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=57, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+84,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=54, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+85,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=50, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+86,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=38, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+87,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=37, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+88,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=26, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+89,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=22, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+90,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=21, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+91,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=17, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+92,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=7, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+93,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=1, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+94,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=59, tm_sec=34, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+95,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=51, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+96,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=50, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+97,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=49, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+98,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=42, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+99,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=40, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+100,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=35, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+101,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=32, tm_sec=16, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+102,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=31, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+103,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=29, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+104,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=15, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+105,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=13, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+106,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=11, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+107,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=5, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+108,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=1, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+109,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+110,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=54, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+111,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=50, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+112,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=46, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+113,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=44, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+114,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=42, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+115,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=39, tm_sec=57, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+116,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=35, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+117,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=33, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+118,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=32, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+119,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=28, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+120,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=26, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+121,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=24, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+122,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=23, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+123,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=20, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+124,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=17, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+125,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=14, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+126,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=11, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+127,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=5, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+128,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=3, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+129,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=1, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+130,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+131,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=52, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+132,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=50, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+133,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=47, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+134,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=45, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+135,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=42, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+136,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=41, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+137,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=37, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+138,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=35, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+139,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=31, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+140,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=30, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+141,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=28, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+142,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=21, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+143,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=17, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+144,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=11, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+145,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=10, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+146,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=9, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+147,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=2, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+148,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=50, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+149,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=47, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+150,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=44, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+151,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=42, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+152,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=41, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+153,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=39, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+154,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=37, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+155,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=35, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+156,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=33, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+157,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=31, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+158,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=30, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+159,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=29, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+160,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=27, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+161,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=23, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+162,Наука и техника,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=20, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+163,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=19, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+164,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=18, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+165,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=14, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+166,Путешествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=13, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+167,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=11, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+168,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=10, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+169,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=3, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+170,Забота о себе,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=2, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+171,Из жизни,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+172,Мир,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=47, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+173,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=46, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+174,Ценности,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=41, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+175,Россия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=38, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+176,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=34, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+177,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=32, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+178,Бывший СССР,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=31, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+179,Силовые структуры,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=27, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+180,Интернет и СМИ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=26, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+181,Среда обитания,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=25, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+182,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=19, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+183,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=18, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://lenta.ru/rss/,30.12.2022,4
+184,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=19, tm_sec=9, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+185,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=18, tm_sec=55, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+186,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=16, tm_sec=44, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+187,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=16, tm_sec=11, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+188,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=14, tm_sec=17, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+189,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=13, tm_sec=58, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+190,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=11, tm_sec=52, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+191,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=11, tm_sec=48, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+192,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=11, tm_sec=7, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+193,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=9, tm_sec=50, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+194,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=9, tm_sec=6, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+195,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=7, tm_sec=26, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+196,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=1, tm_sec=29, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+197,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=59, tm_sec=11, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+198,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=51, tm_sec=3, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+199,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=38, tm_sec=49, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+200,Северный Кавказ,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=26, tm_sec=8, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+201,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=17, tm_sec=56, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+202,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=14, tm_sec=20, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+203,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=12, tm_sec=39, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+204,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=6, tm_sec=40, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+205,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=3, tm_sec=49, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+206,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=1, tm_sec=51, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+207,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=39, tm_sec=43, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+208,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=19, tm_sec=55, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+209,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=17, tm_sec=58, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+210,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=11, tm_sec=47, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+211,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=10, tm_sec=37, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+212,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=6, tm_sec=27, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+213,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=33, tm_sec=56, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+214,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=27, tm_sec=41, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+215,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=25, tm_sec=53, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+216,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=22, tm_sec=40, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+217,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=9, tm_sec=43, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+218,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=4, tm_min=1, tm_sec=26, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+219,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=33, tm_sec=51, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+220,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=16, tm_sec=5, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+221,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=3, tm_min=1, tm_sec=55, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+222,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=23, tm_sec=43, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+223,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=20, tm_sec=36, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+224,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=19, tm_sec=40, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+225,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=2, tm_min=1, tm_sec=56, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+226,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=52, tm_sec=48, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+227,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=50, tm_sec=37, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+228,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=45, tm_sec=3, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+229,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=43, tm_sec=2, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+230,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=27, tm_sec=7, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+231,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=4, tm_sec=53, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+232,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=1, tm_min=1, tm_sec=43, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+233,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=57, tm_sec=41, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+234,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=53, tm_sec=41, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+235,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=50, tm_sec=24, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+236,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=34, tm_sec=24, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+237,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=33, tm_sec=46, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+238,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=8, tm_sec=37, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+239,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=7, tm_sec=57, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+240,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=0, tm_min=3, tm_sec=53, tm_wday=5, tm_yday=365, tm_isdst=0)",https://tass.ru/rss/v2.xml,31.12.2022,5
+241,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=56, tm_sec=59, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+242,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=21, tm_sec=15, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+243,Космос,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=14, tm_sec=17, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+244,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=10, tm_sec=21, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+245,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=6, tm_sec=39, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+246,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=23, tm_min=2, tm_sec=53, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+247,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=58, tm_sec=52, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+248,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=49, tm_sec=33, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+249,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=30, tm_sec=45, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+250,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=25, tm_sec=45, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+251,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=19, tm_sec=25, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+252,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=17, tm_sec=21, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+253,Космос,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=22, tm_min=9, tm_sec=12, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+254,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=55, tm_sec=9, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+255,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=44, tm_sec=32, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+256,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=40, tm_sec=48, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+257,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=38, tm_sec=57, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+258,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=36, tm_sec=43, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+259,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=33, tm_sec=6, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+260,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=27, tm_sec=5, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+261,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=24, tm_sec=30, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+262,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=18, tm_sec=29, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+263,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=15, tm_sec=33, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+264,Москва,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=14, tm_sec=38, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+265,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=11, tm_sec=35, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+266,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=11, tm_sec=18, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+267,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=11, tm_sec=1, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+268,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=9, tm_sec=37, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+269,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=6, tm_sec=38, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+270,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=6, tm_sec=28, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+271,Культура,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=3, tm_sec=46, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+272,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=1, tm_sec=17, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+273,Армия и ОПК,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=21, tm_min=0, tm_sec=38, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+274,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=58, tm_sec=18, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+275,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=50, tm_sec=57, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+276,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=50, tm_sec=36, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+277,Экономика и бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=42, tm_sec=47, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+278,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=41, tm_sec=55, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+279,Происшествия,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=36, tm_sec=36, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+280,Международная панорама,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=27, tm_sec=7, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+281,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=11, tm_sec=5, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+282,Спорт,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=9, tm_sec=37, tm_wday=4, tm_yday=364, tm_isdst=0)",https://tass.ru/rss/v2.xml,30.12.2022,4
+283,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=7, tm_min=14, tm_sec=48, tm_wday=5, tm_yday=365, tm_isdst=0)",https://www.vedomosti.ru/rss/news,31.12.2022,5
+284,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=36, tm_sec=14, tm_wday=5, tm_yday=365, tm_isdst=0)",https://www.vedomosti.ru/rss/news,31.12.2022,5
+285,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=6, tm_min=10, tm_sec=46, tm_wday=5, tm_yday=365, tm_isdst=0)",https://www.vedomosti.ru/rss/news,31.12.2022,5
+286,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=31, tm_hour=5, tm_min=43, tm_sec=16, tm_wday=5, tm_yday=365, tm_isdst=0)",https://www.vedomosti.ru/rss/news,31.12.2022,5
+287,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=56, tm_sec=12, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+288,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=33, tm_sec=7, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+289,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=12, tm_sec=56, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+290,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=52, tm_sec=41, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+291,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=30, tm_sec=24, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+292,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=18, tm_min=7, tm_sec=45, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+293,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=48, tm_sec=44, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+294,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=30, tm_sec=0, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+295,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=17, tm_min=4, tm_sec=58, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+296,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=47, tm_sec=36, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+297,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=32, tm_sec=4, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+298,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=16, tm_min=19, tm_sec=41, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+299,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=58, tm_sec=27, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+300,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=47, tm_sec=7, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+301,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=27, tm_sec=25, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+302,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=14, tm_sec=1, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+303,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=15, tm_min=11, tm_sec=46, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+304,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=56, tm_sec=46, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+305,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=50, tm_sec=24, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+306,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=35, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+307,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=27, tm_sec=16, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+308,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=10, tm_sec=38, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+309,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=14, tm_min=3, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+310,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=13, tm_min=52, tm_sec=43, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+311,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=13, tm_min=32, tm_sec=26, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+312,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=13, tm_min=22, tm_sec=48, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+313,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=13, tm_min=11, tm_sec=47, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+314,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=13, tm_min=9, tm_sec=26, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+315,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=12, tm_min=32, tm_sec=42, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+316,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=12, tm_min=25, tm_sec=58, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+317,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=12, tm_min=22, tm_sec=48, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+318,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=12, tm_min=11, tm_sec=49, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+319,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=12, tm_min=2, tm_sec=13, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+320,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=12, tm_min=0, tm_sec=9, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+321,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=48, tm_sec=11, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+322,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=37, tm_sec=21, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+323,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=26, tm_sec=54, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+324,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=24, tm_sec=49, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+325,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=22, tm_sec=36, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+326,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=18, tm_sec=26, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+327,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=13, tm_sec=3, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+328,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=11, tm_min=6, tm_sec=48, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+329,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=10, tm_min=49, tm_sec=59, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+330,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=10, tm_min=48, tm_sec=39, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+331,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=10, tm_min=40, tm_sec=35, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+332,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=10, tm_min=34, tm_sec=41, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+333,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=10, tm_min=21, tm_sec=13, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+334,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=9, tm_min=55, tm_sec=27, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+335,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=9, tm_min=45, tm_sec=12, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+336,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=9, tm_min=44, tm_sec=47, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+337,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=9, tm_min=17, tm_sec=2, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+338,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=9, tm_min=10, tm_sec=44, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+339,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=9, tm_min=7, tm_sec=4, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+340,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=59, tm_sec=45, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+341,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=56, tm_sec=47, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+342,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=55, tm_sec=10, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+343,Авто,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=43, tm_sec=50, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+344,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=32, tm_sec=33, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+345,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=30, tm_sec=42, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+346,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=20, tm_sec=18, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+347,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=14, tm_sec=6, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+348,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=8, tm_min=7, tm_sec=7, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+349,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=7, tm_min=44, tm_sec=8, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+350,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=7, tm_min=39, tm_sec=11, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+351,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=7, tm_min=28, tm_sec=50, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+352,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=7, tm_min=23, tm_sec=18, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+353,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=7, tm_min=19, tm_sec=31, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+354,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=59, tm_sec=42, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+355,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=58, tm_sec=45, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+356,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=51, tm_sec=14, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+357,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=37, tm_sec=53, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+358,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=36, tm_sec=56, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+359,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=34, tm_sec=28, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+360,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=6, tm_min=24, tm_sec=2, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+361,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=5, tm_min=55, tm_sec=45, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+362,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=5, tm_min=30, tm_sec=31, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+363,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=5, tm_min=17, tm_sec=36, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+364,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=5, tm_min=3, tm_sec=7, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+365,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=4, tm_min=35, tm_sec=46, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+366,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=30, tm_hour=4, tm_min=22, tm_sec=30, tm_wday=4, tm_yday=364, tm_isdst=0)",https://www.vedomosti.ru/rss/news,30.12.2022,4
+367,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=41, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+368,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=19, tm_min=19, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+369,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=57, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+370,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=32, tm_sec=44, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+371,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=18, tm_min=12, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+372,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=52, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+373,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=44, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+374,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=17, tm_min=22, tm_sec=18, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+375,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=58, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+376,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=34, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+377,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=18, tm_sec=13, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+378,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=13, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+379,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=16, tm_min=6, tm_sec=35, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+380,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=49, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+381,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=40, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+382,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=37, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+383,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=27, tm_sec=3, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+384,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=18, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+385,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=15, tm_min=4, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+386,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=54, tm_sec=31, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+387,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=47, tm_sec=28, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+388,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=39, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+389,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=34, tm_sec=10, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+390,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=27, tm_sec=45, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+391,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=14, tm_min=4, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+392,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=55, tm_sec=37, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+393,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=54, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+394,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=45, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+395,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=37, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+396,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=23, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+397,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=13, tm_min=12, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+398,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=56, tm_sec=35, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+399,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=55, tm_sec=23, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+400,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=48, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+401,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=47, tm_sec=41, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+402,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=42, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+403,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=21, tm_sec=55, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+404,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=21, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+405,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=12, tm_min=18, tm_sec=33, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+406,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=59, tm_sec=29, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+407,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=51, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+408,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=49, tm_sec=59, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+409,Медиа,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=45, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+410,Финансы,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=40, tm_sec=30, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+411,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=37, tm_sec=8, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+412,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=12, tm_sec=46, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+413,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=9, tm_sec=39, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+414,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=11, tm_min=4, tm_sec=34, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+415,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=25, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+416,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=18, tm_sec=42, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+417,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=13, tm_sec=24, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+418,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=10, tm_min=11, tm_sec=3, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+419,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=53, tm_sec=32, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+420,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=49, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+421,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=40, tm_sec=50, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+422,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=39, tm_sec=17, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+423,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=27, tm_sec=49, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+424,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=23, tm_sec=47, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+425,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=9, tm_min=19, tm_sec=37, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+426,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=51, tm_sec=25, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+427,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=52, tm_sec=10, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+428,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=29, tm_sec=1, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+429,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=25, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+430,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=8, tm_min=15, tm_sec=36, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+431,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=50, tm_sec=7, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+432,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=45, tm_sec=2, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+433,Недвижимость,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=44, tm_sec=38, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+434,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=16, tm_sec=19, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+435,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=13, tm_sec=58, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+436,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=7, tm_min=4, tm_sec=15, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+437,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=55, tm_sec=4, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+438,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=49, tm_sec=9, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+439,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=23, tm_sec=57, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+440,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=6, tm_min=7, tm_sec=56, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+441,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=5, tm_min=40, tm_sec=0, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+442,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=5, tm_min=22, tm_sec=53, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+443,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=4, tm_min=55, tm_sec=16, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+444,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=29, tm_hour=4, tm_min=32, tm_sec=41, tm_wday=3, tm_yday=363, tm_isdst=0)",https://www.vedomosti.ru/rss/news,29.12.2022,3
+445,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=21, tm_min=0, tm_sec=57, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+446,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=19, tm_min=48, tm_sec=40, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+447,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=19, tm_min=26, tm_sec=43, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+448,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=19, tm_min=2, tm_sec=2, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+449,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=50, tm_sec=26, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+450,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=42, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+451,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=20, tm_sec=14, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+452,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=18, tm_min=13, tm_sec=0, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+453,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=56, tm_sec=24, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+454,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=44, tm_sec=54, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+455,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=28, tm_sec=7, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+456,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=17, tm_min=11, tm_sec=8, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+457,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=48, tm_sec=40, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+458,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=31, tm_sec=2, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+459,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=18, tm_sec=13, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+460,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=7, tm_sec=22, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+461,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=16, tm_min=2, tm_sec=27, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+462,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=49, tm_sec=1, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+463,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=44, tm_sec=5, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+464,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=31, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+465,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=27, tm_sec=21, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+466,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=15, tm_min=10, tm_sec=10, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+467,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=51, tm_sec=44, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+468,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=34, tm_sec=49, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+469,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=20, tm_sec=39, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+470,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=14, tm_min=13, tm_sec=37, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+471,Бизнес,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=57, tm_sec=9, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+472,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=48, tm_sec=25, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+473,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=47, tm_sec=40, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+474,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=34, tm_sec=0, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+475,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=25, tm_sec=14, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+476,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=13, tm_min=21, tm_sec=39, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+477,Политика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=55, tm_sec=58, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+478,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=50, tm_sec=32, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+479,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=47, tm_sec=11, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+480,Общество,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=46, tm_sec=15, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+481,Экономика,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=44, tm_sec=1, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2
+482,Технологии,"time.struct_time(tm_year=2022, tm_mon=12, tm_mday=28, tm_hour=12, tm_min=37, tm_sec=44, tm_wday=2, tm_yday=362, tm_isdst=0)",https://www.vedomosti.ru/rss/news,28.12.2022,2

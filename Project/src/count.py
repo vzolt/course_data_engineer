@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
-import numpy as np
 
 # загрузка файла
 df = pd.read_csv('../data/transform_data.csv', sep=',', index_col=[0]).reset_index(drop=True)
@@ -51,13 +50,39 @@ task9.columns = ['day_of_week', 'key_category', 'count']
 with pd.ExcelWriter('../data/data.xlsx') as writer:  
     task1.to_excel(writer, sheet_name='key_category')
     task2.to_excel(writer, sheet_name='name_category')
-    task3.to_excel(writer, sheet_name='key_category-count')
-    task4.to_excel(writer, sheet_name='source-category_count')
-    task5.to_excel(writer, sheet_name='key_category-count_day')
-    task6.to_excel(writer, sheet_name='source-key_category-count_day')
-    task7.to_excel(writer, sheet_name='key_category-avg')
-    task8.to_excel(writer, sheet_name='key_category-max')
-    task9.to_excel(writer, sheet_name='key_category-count-week_day')
+    task3.to_excel(writer, sheet_name='key_category_count')
+    task4.to_excel(writer, sheet_name='source_category_count')
+    task5.to_excel(writer, sheet_name='key_category_count_day')
+    task6.to_excel(writer, sheet_name='source_key_category_count_day')
+    task7.to_excel(writer, sheet_name='key_category_avg')
+    task8.to_excel(writer, sheet_name='key_category_max')
+    task9.to_excel(writer, sheet_name='key_category_count_week_day')
     
-    
-    
+# импорт в Postgres
+exec(open("postgres_intro.py").read())
+
+task1.to_sql('key_category', con=conn, if_exists='replace',
+		index=False)
+task2.to_sql('name_category', con=conn, if_exists='replace',
+		index=False)
+task3.to_sql('key_category_count', con=conn, if_exists='replace',
+		index=False)
+task4.to_sql('source_category_count', con=conn, if_exists='replace',
+		index=False)
+task5.to_sql('key_category_count_day', con=conn, if_exists='replace',
+		index=False)
+task6.to_sql('source_key_category_count_day', con=conn, if_exists='replace',
+		index=False)
+task7.to_sql('key_category_avg', con=conn, if_exists='replace',
+		index=False)
+task8.to_sql('key_category_max', con=conn, if_exists='replace',
+		index=False)
+task9.to_sql('key_category_count-week_day', con=conn, if_exists='replace',
+		index=False)
+
+
+conn = psycopg2.connect(connection_string						)
+conn.autocommit = True
+cursor = conn.cursor()
+conn.close()
+ 

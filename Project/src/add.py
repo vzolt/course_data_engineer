@@ -48,4 +48,11 @@ df_union.drop_duplicates(subset=['date', 'source'], inplace= True, ignore_index 
 # загружаем в файл
 df_union.to_csv('../data/raw_data.csv', encoding='utf-8')
 
-
+# импорт в Postgres
+exec(open("postgres_intro.py").read())
+df_union.to_sql('raw_data', con=conn, if_exists='replace',
+		index=False)
+conn = psycopg2.connect(connection_string						)
+conn.autocommit = True
+cursor = conn.cursor()
+conn.close()
