@@ -3,7 +3,7 @@
 #!pip install python-crontab
 from crontab import CronTab
 
-cron = CronTab(user= True)
+cron = CronTab(user=True)
 
 job1 = cron.new(command='python ../src/add.py')
 job1.day.on(0, 1, 2, 3, 4, 5, 6)
