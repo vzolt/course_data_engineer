@@ -6,10 +6,10 @@ from sqlalchemy import create_engine
 # импорт в Postgres
 # устанавливаем параметры
 db_config = {'user': 'postgres', # имя пользователя
-'pwd': 'password', # пароль
+'pwd': '555111.,m', # пароль
 'host': 'localhost',
 'port': 5432, # порт подключения
-'db': 'database'} # название базы данных
+'db': 'Lesson3'} # название базы данных
 connection_string = 'postgresql://{}:{}@{}:{}/{}'.format(db_config['user'],
  db_config['pwd'],
  db_config['host'],

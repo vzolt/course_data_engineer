@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
+from IPython import display
 
 # загрузка файла
 df = pd.read_csv('../data/transform_data.csv', sep=',', index_col=[0]).reset_index(drop=True)
@@ -60,6 +61,8 @@ with pd.ExcelWriter('../data/data.xlsx') as writer:
     
 # импорт в Postgres
 exec(open("postgres_intro.py").read())
+
+display(df)
 
 task1.to_sql('key_category', con=conn, if_exists='replace',
 		index=False)

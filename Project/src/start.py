@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-
+from tabulate import tabulate
 # установка и загрузка бибиотек
-!pip install feedparser
+# !pip install feedparser
 import feedparser
 import pandas as pd
 import time
@@ -37,6 +37,8 @@ df = pd.DataFrame({'category': categories, 'date': dates, 'source': sources}).re
 df['day'] = df.date.apply(strftime)
 
 df['day_of_week'] = df.date.apply(tm_wday)
+
+print(tabulate(df, headers = 'keys', tablefmt = 'psql'))
 
 # выгружаем в файл
 df.to_csv('../data/raw_data.csv', encoding='utf-8')
