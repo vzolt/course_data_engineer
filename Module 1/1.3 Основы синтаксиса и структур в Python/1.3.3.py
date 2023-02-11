@@ -12,7 +12,7 @@ if n >= 1000:
 
 if n >= 100:
     k = n // 100
-    print(k)
+    
     if k == 1:
         roman_num += 'С'
     elif k == 2:
