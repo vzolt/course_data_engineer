@@ -46,7 +46,7 @@ df_key_names = pd.DataFrame.from_dict(key_name, orient='index').reset_index()
 df_key_names.columns = ['key_category', 'name_category']
 df = df.merge(df_key_names, on='key_category')
 
-# формируем готовый датаврейм
+# формируем готовый датафрейм
 df_transform = df[['key_category', 'name_category',
                    'source', 'day', 'day_of_week']]
 
